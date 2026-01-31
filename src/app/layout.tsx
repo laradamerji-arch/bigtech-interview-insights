@@ -6,7 +6,7 @@ const inter = Inter({ subsets: ['latin'], variable: '--font-body' });
 const shrikhand = Shrikhand({ weight: '400', subsets: ['latin'], variable: '--font-retro' });
 
 export const metadata: Metadata = {
-  title: 'Interview Wizard - Retro Edition',
+  title: 'Interview-Skills',
   description: 'Master your interviews with style',
 };
 
