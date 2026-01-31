@@ -364,7 +364,7 @@
     {
         "title": "Merge Two Sorted Lists",
         "difficulty": "Easy",
-        "frequency": 0.57,
+        "frequency": 0.43,
         "tags": [
             "Linked List",
             "Recursion"
@@ -394,7 +394,7 @@
     {
         "title": "Number of Islands",
         "difficulty": "Medium",
-        "frequency": 0.56,
+        "frequency": 0.43,
         "tags": [
             "Grid",
             "DFS",
@@ -485,7 +485,7 @@
     {
         "title": "Search in Rotated Sorted Array",
         "difficulty": "Medium",
-        "frequency": 0.53,
+        "frequency": 0.43,
         "tags": [
             "Array",
             "Binary Search"
@@ -588,7 +588,7 @@
     {
         "title": "Generate Parentheses",
         "difficulty": "Medium",
-        "frequency": 0.49,
+        "frequency": 0.43,
         "tags": [
             "String",
             "Backtracking"
@@ -858,7 +858,7 @@
     {
         "title": "Add Binary",
         "difficulty": "Easy",
-        "frequency": 0.40,
+        "frequency": 0.42,
         "tags": [
             "Math",
             "String"
@@ -902,7 +902,7 @@
     {
         "title": "Valid Anagram",
         "difficulty": "Easy",
-        "frequency": 0.38,
+        "frequency": 0.49,
         "tags": [
             "String",
             "Sorting"
@@ -2128,7 +2128,7 @@
     {
         "title": "Find Peak Element",
         "difficulty": "Medium",
-        "frequency": 0.38,
+        "frequency": 0.42,
         "tags": [
             "Array",
             "Binary Search"
@@ -3547,7 +3547,7 @@
     {
         "title": "Edit Distance",
         "difficulty": "Hard",
-        "frequency": 0.29,
+        "frequency": 0.42,
         "tags": [
             "String",
             "Dynamic Programming"
@@ -3608,7 +3608,7 @@
     {
         "title": "Regular Expression Matching",
         "difficulty": "Hard",
-        "frequency": 0.27,
+        "frequency": 0.49,
         "tags": [
             "String",
             "Dynamic Programming",
@@ -3764,7 +3764,7 @@
     {
         "title": "Range Sum Query - Immutable",
         "difficulty": "Easy",
-        "frequency": 0.22,
+        "frequency": 0.42,
         "tags": [
             "Dynamic Programming",
             "Design"
@@ -5039,7 +5039,7 @@
     {
         "title": "Pascal's Triangle",
         "difficulty": "Easy",
-        "frequency": 0.28,
+        "frequency": 0.42,
         "tags": [
             "Array",
             "DP"
@@ -5631,7 +5631,7 @@
     {
         "title": "Intersection of Two Linked Lists",
         "difficulty": "Easy",
-        "frequency": 0.08,
+        "frequency": 0.42,
         "tags": [
             "Linked List"
         ],
@@ -5729,7 +5729,7 @@
     {
         "title": "Two Sum II - Input Array Is Sorted",
         "difficulty": "Medium",
-        "frequency": 0.05,
+        "frequency": 0.42,
         "tags": [
             "Array",
             "Two Pointers"
@@ -6543,7 +6543,7 @@
     {
         "title": "Reverse Vowels of a String",
         "difficulty": "Easy",
-        "frequency": 0.03,
+        "frequency": 0.43,
         "tags": [
             "Two Pointers",
             "String"
@@ -7048,7 +7048,7 @@
     {
         "title": "Split Array Largest Sum",
         "difficulty": "Hard",
-        "frequency": 0.03,
+        "frequency": 0.43,
         "tags": [
             "Binary Search",
             "DP"
@@ -9627,7 +9627,7 @@
     {
         "title": "Swim in Rising Water",
         "difficulty": "Hard",
-        "frequency": 0.03,
+        "frequency": 0.42,
         "tags": [
             "Binary Search",
             "Heap"
@@ -11432,7 +11432,7 @@
     {
         "title": "Pyramid Transition Matrix",
         "difficulty": "Medium",
-        "frequency": 0.02,
+        "frequency": 0.42,
         "tags": [
             "DFS"
         ],
@@ -13087,7 +13087,7 @@
     {
         "title": "Delete Columns to Make Sorted",
         "difficulty": "Easy",
-        "frequency": 0.02,
+        "frequency": 0.42,
         "tags": [
             "Greedy",
             "String"
@@ -13434,7 +13434,7 @@
     {
         "title": "Squares of a Sorted Array",
         "difficulty": "Easy",
-        "frequency": 0.02,
+        "frequency": 0.42,
         "tags": [
             "Two Pointers"
         ],
@@ -19933,7 +19933,7 @@
     {
         "title": "Jump Game III",
         "difficulty": "Medium",
-        "frequency": 0.02,
+        "frequency": 0.42,
         "tags": [
             "BFS",
             "DFS"
@@ -20756,7 +20756,7 @@
     {
         "title": "Course Schedule IV",
         "difficulty": "Medium",
-        "frequency": 0.02,
+        "frequency": 0.42,
         "tags": [
             "Graph",
             "BFS"
@@ -31276,7 +31276,7 @@
     {
         "title": "Maximum Matrix Sum",
         "difficulty": "Medium",
-        "frequency": 0.02,
+        "frequency": 0.49,
         "tags": [
             "Array",
             "Greedy"
